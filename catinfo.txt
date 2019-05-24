@@ -3,3 +3,4 @@ cat can hide
 cat can eat
 yet more cat info
 more cats
+yet another line of cats
