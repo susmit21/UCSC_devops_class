@@ -3,4 +3,8 @@ cat can hide
 cat can eat
 yet more cat info
 more cats
+<<<<<<< HEAD
 This line is added in the master branch
+=======
+yet another line of cats
+>>>>>>> origin/branch01
